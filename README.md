@@ -9,7 +9,7 @@ Microserviço utilizando Java springboot.
 - PgAdmin (Postgres)
 - IDE (IntelliJ, STS, Eclipse, etc)
 
-# Usuário cadastrado para enviar o e-mail
+# Usuário cadastrado
 ![image](https://github.com/Alef011/user/assets/42329886/e4dfcf66-470a-4542-953f-9835aa4d35e3)
 
 # Links
